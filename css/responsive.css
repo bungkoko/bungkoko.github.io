@@ -104,12 +104,12 @@ px      68    160    252    */
 
 
 .navbar-toggle {
-  border: 1px solid rgba(15, 116, 143, 0.8);
+  border: 1px solid rgba(201,32,54, 0.8);
   margin-top: 37px;
 }
 
 .navbar-toggle .icon-bar {
-  background-color: rgba(15, 116, 143, 0.8);
+  background-color: rgba(201,32,54, 0.8);
 }
 
 .animated-nav .navbar-toggle {
@@ -127,11 +127,11 @@ px      68    160    252    */
 }
 
 .navigation .navbar-nav > li > a {
-  background-color: #00c7fc;
+  background-color: #C92036;
 }
 
 .navigation .navbar-nav > li > a:hover {
-  background-color: #00c7fc;
+  background-color: #C92036;
 }
 
 .navigation .navbar-nav > li.current > a {
