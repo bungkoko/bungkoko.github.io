@@ -16,12 +16,16 @@ $(document).ready(function(){
 	});
 
 	$('#nav').onePageNav({
-		currentClass: 'current',
+		/*currentClass: 'current',
 		changeHash: false,
 		scrollSpeed: 15000,
 		scrollThreshold: 0.5,
 		filter: '',
-		easing: 'easeInOutExpo'
+		easing: 'easeInOutExpo'*/
+        filter: ':not(.external)',
+        scrollSpeed: 950,
+        scrollThreshold: 1
+        
 	});
 
      $('#top-nav').onePageNav({

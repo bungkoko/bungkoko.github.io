@@ -350,7 +350,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   -o-transition: all 0.8s ease-out;
   transition: all 0.8s ease-out;
   width: 285px;
-  height: 240px;
+  height: 315px;
 }
 #blog .block ul li .blog-img-2 {
   width: 50%;
@@ -368,8 +368,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   font-size: 16px;
   line-height: 26px;
   float: right;
-  width: 50%;
-  height: 100%;
+  width: 285px;
+  height: 315px;
   position: relative;
 }
 #blog .block ul li .content-right:after {
@@ -388,8 +388,8 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 #blog .block ul li .content-left {
   padding: 40px 35px 23px;
-  width: 50%;
-  height: 100%;
+  width: 285px;
+  height: 315px;
   float: left;
   position: relative;
   z-index: 999;
