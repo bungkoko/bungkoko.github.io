@@ -117,7 +117,7 @@ width: 11px;
 }
 
 .btn-blue {
-  background-color: #C92036;
+  background-color: #4CAF50;
   color: #fff;
   font-size: 16px;
   line-height: 24px;
@@ -177,8 +177,8 @@ width: 11px;
 }
 
 .navigation .navbar-nav > li.current > a {
-  color: #C92036;
-  border-bottom: 1px solid #C92036;
+  color: #4CAF50;
+  border-bottom: 1px solid #4CAF50;
 }
 
 .animated-nav .navigation .navbar-nav > li.current > a {
@@ -249,7 +249,7 @@ width: 11px;
 }
 
 .carousel-caption > div {
-  background-color: rgba(201,32,54,0.8);
+  background-color: rgba(76,175,80,0.8);
   padding: 60px 50px 80px 20%;
   position: absolute;
   top: 25%;
@@ -302,13 +302,13 @@ width: 11px;
 }
 
 #nav-arrows > a.sl-next:hover {
-    background-color: #C92036;
-    border-color: #C92036;
+    background-color: #4CAF50;
+    border-color: #4CAF50;
     color: #fff;
 }
 
 .carousel-indicators .active {
-  background-color: #C92036;
+  background-color: #4CAF50;
   border: 0;
 }
 
@@ -322,7 +322,7 @@ width: 11px;
 }
 
 #service .media .media-body h3{
-    color: #C92036;
+    color: #4CAF50;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
@@ -356,7 +356,7 @@ width: 11px;
 }
 
 .service-item h3 {
-  color: #C92036;
+  color: #4CAF50;
   font-size: 20px;
   margin-bottom: 28px;
 }
@@ -445,7 +445,7 @@ width: 11px;
 
 .project-filter ul li a:hover,
 .project-filter ul li a.active {
-    background-color: #C92036;
+    background-color: #4CAF50;
     color: #fff;
 }
 
@@ -461,7 +461,7 @@ width: 11px;
 }
 
 .plus {
-  background: url("../img/icons/plus.png") no-repeat scroll center center #0faed9;
+  background: url("../img/icons/plus.png") no-repeat scroll center center #4CAF50;
   border-radius: 50%;
   display: block;
   height: 80px;
@@ -655,8 +655,8 @@ figcaption.mask span {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #C92036;
-  border-color: #C92036;
+  background-color: #4CAF50;
+  border-color: #4CAF50;
 }
 
 
@@ -679,7 +679,7 @@ figcaption.mask span {
 .progress .bar {
   width: 0;
   height: 25px;
-  background-color: #C92036;
+  background-color: #4CAF50;
 
   -webkit-transition: width 0.6s ease;
      -moz-transition: width 0.6s ease;
@@ -700,7 +700,7 @@ figcaption.mask span {
 }
 
 .progress-success .bar, .progress-green .bar {
-  background-color: #C92036;
+  background-color: #4CAF50;
 
 }
 
@@ -738,7 +738,7 @@ figcaption.mask span {
 }
 
 .pricing-table .price {
-  border-top: 1px solid #C92036;
+  border-top: 1px solid #4CAF50;
   padding: 35px 0 45px;
 }
 
@@ -766,8 +766,8 @@ figcaption.mask span {
 }
 
 .pricing-table ul {
-  border-bottom: 1px solid #C92036;
-  border-top: 1px solid #C92036;
+  border-bottom: 1px solid #4CAF50;
+  border-top: 1px solid #4CAF50;
 }
 
 .pricing-table ul li {
@@ -777,7 +777,7 @@ figcaption.mask span {
 }
 
 .pricing-table ul li:after {
-  border-bottom: 1px solid #C92036;
+  border-bottom: 1px solid #4CAF50;
   bottom: 0;
   content: "";
   display: block;
@@ -796,7 +796,7 @@ figcaption.mask span {
 }
 
 .btn-price {
-  border: 1px solid #C92036;
+  border: 1px solid #4CAF50;
   color: #1f2021;
   margin-top: 40px;
   padding: 10px 30px;
@@ -844,7 +844,7 @@ figcaption.mask span {
 }
 
 .subscription-form #mail-submit {
-  background-color: #C92036;
+  background-color: #4CAF50;
   border: 0 none;
   color: #fff;
   padding: 16px 35px;
@@ -939,7 +939,7 @@ figcaption.mask span {
 }
 
 .footer-social ul li a:hover {
-  color: #C92036;
+  color: #4CAF50;
 }
 
 .copyright {
@@ -949,7 +949,7 @@ figcaption.mask span {
 }
 
 .copyright a {
-    color: #C92036;
+    color: #4CAF50;
 }
 
 .copyright a:hover {
