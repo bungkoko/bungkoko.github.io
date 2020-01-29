@@ -1,8 +1,8 @@
 Options -Indexes
 
-RewriteEngine on
+#RewriteEngine on
 # don't rewrite, if it is already rewritten
-RewriteCond %{REQUEST_URI} !^/subdirectory
+#RewriteCond %{REQUEST_URI} !^/subdirectory
 # only rewrite requests for files below /assets
-RewriteCond %{REQUEST_URI} ^/assets/
-RewriteRule ^.*$ /subdirectory/$0 [L]
+#RewriteCond %{REQUEST_URI} ^/assets/
+#RewriteRule ^.*$ /subdirectory/$0 [L]
