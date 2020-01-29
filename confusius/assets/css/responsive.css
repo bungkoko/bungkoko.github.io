@@ -1028,10 +1028,10 @@
   .widget-area .widget .widget-title {
     font-size: 17px;
   }
-  .widget-area .widget_labto_posts_thumb .item .info time {
+  .widget-area .widget_confucius_posts_thumb .item .info time {
     font-size: 11px;
   }
-  .widget-area .widget_labto_posts_thumb .item .info .title {
+  .widget-area .widget_confucius_posts_thumb .item .info .title {
     font-size: 14px;
   }
   .widget-area .widget_recent_comments ul li {
@@ -1560,7 +1560,7 @@
   .widget-area .widget .widget-title {
     font-size: 18px;
   }
-  .widget-area .widget_labto_posts_thumb .item .info .title {
+  .widget-area .widget_confucius_posts_thumb .item .info .title {
     font-size: 15px;
   }
   .contact-info .contact-info-content h3 {
@@ -1602,11 +1602,11 @@
   .section-title h2 {
     font-size: 34px;
   }
-  .labto-nav .others-options {
+  .confucius-nav .others-options {
     position: relative;
     top: -4px;
   }
-  .labto-nav .others-options .btn {
+  .confucius-nav .others-options .btn {
     display: none;
   }
   .main-banner-content h1 {
@@ -1733,25 +1733,25 @@
 }
 
 @media only screen and (max-width: 991px) {
-  .labto-mobile-nav {
+  .confucius-mobile-nav {
     display: block;
     padding-top: 15px;
     padding-bottom: 15px;
   }
-  .labto-mobile-nav .logo {
+  .confucius-mobile-nav .logo {
     position: relative;
     z-index: 9910;
     width: 60%;
     left: 15px;
   }
-  .labto-mobile-nav .logo a {
+  .confucius-mobile-nav .logo a {
     display: inline-block;
   }
-  .labto-mobile-nav.mean-container .mean-nav .navbar-nav {
+  .confucius-mobile-nav.mean-container .mean-nav .navbar-nav {
     height: 351px;
     overflow-y: scroll;
   }
-  .labto-nav {
+  .confucius-nav {
     display: none;
   }
   .navbar-area.is-sticky .mean-container .mean-bar {
